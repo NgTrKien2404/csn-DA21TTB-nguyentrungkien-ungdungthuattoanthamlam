@@ -1,0 +1,38 @@
+BÁO CÁO TIẾN ĐỘ: 
+1. Tuần 1:Từ 06/11/2023 đến 12/11/2023 
+ ** Công việc thực hiện:
+- Tìm hiểu lý thuyết đề tài.
+- Tìm hiểu thuật toán.
+** Công việc sắp tới:
+- Bắt đầu giải thuật toán.
+- Code thử và sửa lỗi.
+**Thắc mắc cần hỏi giáo viên:
+Hiện tại em chưa khó khăn cần sự giúp đỡ của thầy.
+   
+                                        
+2.Tuần 2:Từ 20/11/2023 đến 26/11/2023	
+ ** Công việc thực hiện:
+- Hoàn thành việc Bắt đầu giải thuật toán.
+- Code thử và sửa lỗi.
+** Công việc sắp tới:
+- Code thử và sửa lỗi.
+**Thắc mắc cần hỏi giáo viên:
+Hiện tại em chưa khó khăn cần sự giúp đỡ của thầy.
+3. Tuần 3:Từ 04/12/2023 đến 10/12/2023
+** Công việc thực hiện:
+- Code thử và sửa lỗi.
+** Công việc sắp tới:
+- Code thử và sửa lỗi.
+**Thắc mắc cần hỏi giáo viên:
+Hiện tại em chưa khó khăn cần sự giúp đỡ của thầy.	
+4. Tuần 4:Từ 18/12/2023 đến 24/12/2023	
+** Công việc thực hiện:
+- Code thử và sửa lỗi.
+** Công việc sắp tới:
+- Hoàn thành viết chương trình và tiến hành viết báo cáo.
+**Thắc mắc cần hỏi giáo viên:
+Hiện tại em chưa khó khăn cần sự giúp đỡ của thầy.
+5. Tuần 5:Từ 25/12/2023 đến 31/12/2023	
+- kiểm thử thuật toán và hoàn thiện.
+- Sửa lỗi quyển báo cáo và hoàn thiện. 
+

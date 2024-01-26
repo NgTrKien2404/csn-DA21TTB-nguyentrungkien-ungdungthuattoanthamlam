@@ -22,7 +22,7 @@ DoVat* ReadFromConsole(float* W, int* n) {
         printf("Nhap thong tin cho do vat thu %d (nhap 'q' de ket thuc):\n", i + 1);
         printf("Trong luong: ");
         if (scanf("%f", &dsdv[i].TL) != 1) {
-            break; // K?t thúc n?u ngý?i dùng nh?p 'q'
+            break; // 
         }
 
         printf("Gia tri: ");
@@ -31,7 +31,7 @@ DoVat* ReadFromConsole(float* W, int* n) {
         printf("Ten do vat: ");
         getchar(); // An ki tu Enter 
         fgets(dsdv[i].TenDV, sizeof(dsdv[i].TenDV), stdin);
-        dsdv[i].TenDV[strcspn(dsdv[i].TenDV, "\n")] = '\0'; // Lo?i b? kí t? newline n?u có
+        dsdv[i].TenDV[strcspn(dsdv[i].TenDV, "\n")] = '\0'; // 
 
         dsdv[i].DG = dsdv[i].GT / dsdv[i].TL;
         dsdv[i].So_DV_Duoc_Chon = 0;
